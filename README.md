@@ -23,7 +23,7 @@ O protótipo do AluraBooks foi construído utilizando as seguintes tecnologias:
 - Swiper JS: para criação de sliders (carrosséis) e galerias de imagens responsivas.
 
 ## Como Utilizar
-- Acesse pelo Github Pages clicando [aqui](https://switq.github.io/AluraBooks/){:target="_blank"}.
+- Acesse pelo Github Pages clicando [aqui](https://switq.github.io/AluraBooks/).
 
 Ou se preferir
 - Clone este repositório em sua máquina local.

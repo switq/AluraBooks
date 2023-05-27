@@ -34,3 +34,6 @@ Sinta-se à vontade para explorar e contribuir com melhorias para o protótipo d
 
 ## Autor
 Este protótipo foi desenvolvido por Guilherme Rodrigues.
+
+##Licença
+Este projeto está licenciado sob a MIT License.

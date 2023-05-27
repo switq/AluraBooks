@@ -87,7 +87,7 @@
 }
 
 .descricao__avaliacao {
-    width: 55%;
+    width: 15vw;
 }
 
 .carrossel {
@@ -111,6 +111,10 @@
     .swiper-button-next {
         display: block;
         top: 60%;
+    }
+
+    .descricao__avaliacao {
+        width: 7vw;
     }
 
     .card {
@@ -144,6 +148,10 @@
 
     .descricao {
         margin-right: 2em;
+    }
+
+    .descricao__avaliacao {
+        width: 4vw;
     }
 
     .card {
